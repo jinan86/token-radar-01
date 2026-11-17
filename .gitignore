@@ -1,0 +1,7 @@
+# Build output and local tooling — never part of the submitted repository.
+out/
+out2/
+kit/
+.shot/
+node_modules/
+.DS_Store
